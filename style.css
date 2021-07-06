@@ -106,7 +106,7 @@ header > nav {
     flex-direction: row;
     justify-content: space-between;
     padding: 20px 60px;
-    background-image: url('images/Frame59.jpg');
+    background-image: linear-gradient(white, rgba(224, 157, 145, 0.856));
     height: 75vh;
     background-size: cover;
     background-repeat: no-repeat;
@@ -161,6 +161,7 @@ header > nav {
 #menu > p {
     position: relative;
     left: 24%;
+    text-align: center;
     font-size: 20px;
     width: 50vw;
     margin-bottom: 30px;
